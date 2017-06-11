@@ -1,0 +1,74 @@
+.header {
+
+	background-color: #000;
+	color: #fff;
+	width: 80%;
+	margin: 0 auto;
+	padding: 50px;
+	border-radius: 5px;
+}
+
+h1 {
+	text-align: center;
+	font: Arial;
+	font-size: 3em;
+	margin-bottom: 0;
+
+
+}
+
+p {
+	text-align: center;
+	margin-top: 0;
+}
+
+#trainData {
+
+	border: 1px solid #4169e1;
+	border-radius: 5px;
+	width: 80%;
+	margin: 40px auto;
+
+}
+
+h2 {
+	background-color: #4169e1;
+	margin-top: 0;
+	color: #fff;
+	font-size: 1.5em;
+	padding: 10px;
+}
+
+#form {
+	width: 80%;
+	margin: 0 auto;
+	border: 1px solid #4169e1;
+	border-radius: 5px;
+	padding-bottom: 10px;
+
+
+}
+
+#form label {
+	margin-left: 10px;
+
+}
+
+#form input {
+
+	width: 97%;
+	margin: 0 auto;
+}
+
+#submit {
+
+	margin-left: 10px;
+}
+
+#trainList {
+	
+	width: 97%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	
+}
